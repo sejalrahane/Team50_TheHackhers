@@ -1,2 +1,2 @@
 # Team50_TheHackhers
-Tech foe good
+Tech for good
